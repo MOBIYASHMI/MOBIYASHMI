@@ -1,10 +1,9 @@
-<!-- Banner (replace this with your own banner later) -->
-![Banner](https://raw.githubusercontent.com/MOBIYASHMI/MOBIYASHMI/main/banner.png)
+<p align="center">
+  <img src="profile.jpg" alt="Profile" width="200" style="border-radius: 50%;" />
+</p>
 
 # Hi, I’m Mobiyashmi Dayalan 👋  
 *Java Full Stack Developer | Bangalore, India*  
-
-![Profile Views](https://komarev.com/ghpvc/?username=MOBIYASHMI&color=blue&style=flat-square)  
 
 ---
 
