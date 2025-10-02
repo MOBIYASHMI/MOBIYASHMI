@@ -20,7 +20,8 @@
 
 ---
 
-## 🔭 About Me I’m a results-driven **Java Full Stack Developer** currently working at *Times of India*. 
+## 🔭 About Me:
+I’m a results-driven **Java Full Stack Developer** currently working at *Times of India*. 
 - 🚀 Built automation tools that reduced manual effort by **99%**
 - 🔎 Integrated **Elasticsearch** for semantic search & fuzzy matching
 - ⚡ Ensured **99.9% uptime** for business-critical systems
@@ -75,10 +76,11 @@
 
 ## 💼 Experience
 **System Engineer @ Times of India** — Bangalore *(July 2023 – Present)*  
-- Automated plugin/font distribution with a Java JAR → **99% less manual effort**  
-- Developed Elasticsearch-powered search APIs with typo tolerance  
-- Maintained **99.9% uptime** through proactive fixes  
-- Conducted training sessions, increasing adoption & productivity  
+- Designed and integrated Elasticsearch with Spring Boot and Python microservices, enabling fuzzy search, autocomplete, and semantic ranking, improving query accuracy and user experience.
+- Designed and developed a Java-based executable JAR utility to automate the distribution of plugins and fonts across distributed user systems, eliminating 99% of the repetitive manual work. 
+- Resolved recurring issues in page processing applications by analyzing page component failures and ensuring stable workflows for editorial and design teams, ensuring 99.9% up-time.
+- Conducted functionality testing post-patch updates to ensure stability and performance.
+- Trained and guided non-technical teams on tool usage and upgrades, resulting in enhanced process efficiency and increased user adoption.
 
 ---
 
@@ -91,7 +93,7 @@ College of Engineering, Guindy (2019 – 2023) | **CGPA: 8.88**
 ## 🏆 Certifications & Achievements
 - ✅ 99% reduction in manual effort with automation utility  
 - ✅ 99.9% uptime achievement at Times of India  
-- ✅ **Java Full Stack Certification** — Guvi (Feb 2025)  
+- ✅ **Java Full Stack Certification** — Guvi (Feb 2025)
 
 ---
 
