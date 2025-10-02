@@ -93,16 +93,16 @@ College of Engineering, Guindy (2019 – 2023) | **CGPA: 8.88**
 ## 🏆 Certifications & Achievements
 - ✅ 99% reduction in manual effort with automation utility  
 - ✅ 99.9% uptime achievement at Times of India  
-- ✅ **Java Full Stack Certification** — Guvi (Feb 2025)
+- ✅ **[Java Full Stack Certification](https://drive.google.com/file/d/1mmPw__6dyzLUxhlBqyt0htrj5uhtRkAn/view)** — Guvi (Feb 2025)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOBIYASHMI&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOBIYASHMI&layout=compact&theme=radical" height="180em" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MOBIYASHMI&theme=radical&hide_border=true" />
